@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/MyRatingsSS.png)
+![./images/MyRatingsSS.png]
 
 ### Links
 
