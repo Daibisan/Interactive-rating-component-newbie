@@ -43,7 +43,9 @@ Users should be able to:
 
 ### What I learned
 
-I learned about semantic HTML5 markup elements and roles. Elements : 
+I learned about semantic HTML5 markup elements and roles.
+
+elements : 
 - header
 - nav
 - main
